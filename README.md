@@ -335,8 +335,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🚀 **Ready to Transform Your Content into Conversations?**
 
-[**Get Started Now**](https://github.com/ancur4u/MultiAgent_Voice_RAG) • [**View Demo**](#[-live-demo](https://youtu.be/Mg9GGv6zvuc)) • [**Read Docs**](#-getting-started)
+[**Get Started Now**](https://github.com/ancur4u/MultiAgent_Voice_RAG) • [**View Demo**](https://youtu.be/Mg9GGv6zvuc) • [**Read Docs**](#-getting-started)
 
-**Made with ❤️ by the Multi-Agent Voice RAG Team**
+**Made with ❤️ by Ankur Parashar**
 
 </div>
